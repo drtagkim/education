@@ -2,7 +2,7 @@
 title: "CrossTab"
 author: "Taekyung Kim"
 date: '2020 5 7 '
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}

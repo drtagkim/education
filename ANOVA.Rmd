@@ -4,7 +4,7 @@ author: "Taekyung Kim"
 date: '2020 5 8 '
 output: rmarkdown::github_document
 editor_options: 
-  chunk_output_type: console
+  chunk_output_type: inline
 ---
 # 기본적 아이디어
 

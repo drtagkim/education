@@ -72,3 +72,4 @@ cat("Is Class related to Survived?",
     "\n")
 ```
 
+## 안전벨트
